@@ -1,6 +1,9 @@
 # transport-risk-mitigation
 ML Model for Transport Risk Mitigation  
 
+Ocean Protocol Data Challenge : https://desights.ai/shared/challenge/10  
+Ocean Protocol, a web3 Data/AI ecosystem : https://oceanprotocol.com/
+
 The objective is to develop ML models using the provided dataset, to predict potentially dangerous temperature and humidity conditions while transporting high-value goods, including livestock and perishable food items. By analyzing telematics, weather data, and sensor readings, the model will uncover the influence of external weather, geolocation, and internal microclimate on transport conditions.  
 
 The primary goal is to forecast instances where temperatures may exceed 25°C and/or humidity levels may surpass 80%.  
