@@ -25,4 +25,4 @@ Data source : https://drive.google.com/drive/folders/1_-Eh_BXhjSkKtJ-s1rrMXxsE9Z
   - Build a model that predicts indoor temperature and humidity a few minutes/seconds into the future. This requires data transformation. If you can create a model, show us how!
 
 - Report: 
-  - report describing the above findings
+  - report describing the above findings : file into /doc/
